@@ -1,0 +1,35 @@
+commit 25cab144c6672e7024783c73c5c80b976a373b42
+Author: Nikita <alekseev.n@edu.narfu.ru>
+Date:   Sun Dec 24 19:49:48 2023 +0300
+
+    Переименован файл my_second_file.txt в my_first_file.txt
+
+commit 59ef03ae9cc5c76c5feea6c05b27d6ba4d7cd85b
+Author: Nikita <alekseev.n@edu.narfu.ru>
+Date:   Sun Dec 24 19:47:14 2023 +0300
+
+    Удален файл my_first_file.txt
+
+commit 8e42d2dcced7b3e6ecbc47a99fc1a2628ba926c9
+Author: Nikita <alekseev.n@edu.narfu.ru>
+Date:   Sun Dec 24 19:40:06 2023 +0300
+
+    Добавлена строка 'row no index'
+
+commit 99167ca35fed25439a6d52c54dda3609731d24e6
+Author: Nikita <alekseev.n@edu.narfu.ru>
+Date:   Sun Dec 24 19:39:23 2023 +0300
+
+    Добавлена строка 'row to index'
+
+commit 6f7ad1a786bd149a06260b02a5410792a418b435
+Author: Nikita <alekseev.n@edu.narfu.ru>
+Date:   Sun Dec 24 19:07:04 2023 +0300
+
+    Добавлена строка 'test row' в my_first_file.txt
+
+commit b1bc0746303c7ee39cffaf7eba2da599e7e309bc
+Author: Nikita <alekseev.n@edu.narfu.ru>
+Date:   Sun Dec 24 19:03:20 2023 +0300
+
+    Добавлен файл my_first_file.txt
