@@ -1,9 +1,7 @@
 ## Начало работы
 Начало работы с ботом осуществляется с помощью команды /start
-![/start](https://github.com/Bj-ka/BotWeather/tree/main/PythonTRPO/image/startMenu.png)
+![/start](https://github.com/123CRAN/trpo/blob/master/image/1k.jpg)
 ## Запрос погоды по геолокации
-![Запрос погоды по геолокации](https://github.com/Bj-ka/BotWeather/tree/main/PythonTRPO/image/Geolocation.png)
+![Запрос погоды по геолокации](https://github.com/123CRAN/trpo/blob/master/image/3-2.jpg)
 ## Прогноз по названию города
-![Запрос по названию](https://github.com/Bj-ka/BotWeather/tree/main/PythonTRPO/image/CityName.png)
-##Погода на 7 дней
-![Погода на 7 дней вперёд](https://github.com/Bj-ka/BotWeather/tree/main/PythonTRPO/image/Forecast5day.png)
+![Запрос по названию](https://github.com/123CRAN/trpo/blob/master/image/2-3.jpg)
